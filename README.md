@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OpenClaw Deployment Guide (No Coding Experience Required)
 
 **Author:** William Fan
@@ -498,3 +499,7 @@ Resolve common setup issues such as SSH permission errors, missing gateway token
 | Gateway token not accepted | Regenerate the token using `openclaw dashboard --no-open` and try again. |
 | Telegram bot not responding | Verify the bot token is correct and that the pairing has been approved in OpenClaw. |
 | API key not working | Confirm the environment variable is exported: `echo $ANTHROPIC_API_KEY`. |
+=======
+# openclaw-guide
+A comprehensive guide to deploying, configuring, and extending OpenClaw
+>>>>>>> 0e10df8782a6e8910f8580dcda3675b76491f17f
